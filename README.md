@@ -58,7 +58,6 @@ I write blogs about tech, AI, and coding tips to help others and reinforce my le
 - 🌐 [GitHub](https://github.com/nafisatahasin)
 
 ---
-
 ### 🐍 Watch my contributions snake 🐍
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/nafisatahasin/nafisatahasin/output/github-contribution-grid-snake.svg#gh-light-mode-only)
