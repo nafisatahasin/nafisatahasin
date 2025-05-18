@@ -12,7 +12,6 @@
 - 🛠️ Love building projects with Python, Java, and JavaScript  
 - 🤖 Enthusiast in Machine Learning, AI, and Data Science  
 - ✍️ Sharing tech knowledge through blogs and open source
-- ♟️ Silver Medalist in Chess @ Enthuse (IIITJ)
 
 ---
 
